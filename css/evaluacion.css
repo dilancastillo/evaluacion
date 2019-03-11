@@ -1,0 +1,31 @@
+form{
+    font-size: 30px;
+    margin: 20px;
+}
+input{
+    margin-left: 10px;
+    font-size: 32px;
+    width: 1200px;
+    border-bottom: 3px solid #08E7EB;
+    border-top: 0 #FFF solid;
+    border-left: 0 #FFF solid;
+    border-right: 0 #FFF solid; 
+    -webkit-transition: width .35s ease-in-out;
+    transition: width .35s ease-in-out;
+}
+button{
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    font-size: 32px;
+    width: 300px;
+}
+i{
+    color: #08E7EB;
+}
+input[type=checkbox]{
+    width: 10px;
+}
+select{
+    width: 300px;
+}
